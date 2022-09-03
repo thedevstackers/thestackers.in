@@ -1,3 +1,2 @@
 # thestackers.in
-
-The Official Website of The Stackers.
+the official website of the stackers
