@@ -8,10 +8,10 @@ function App() {
       <Header />
       <Routes>
         <Route path='/' element={<Home />} />
-        <Route path='services' element={<Services />} />
-        <Route path='team' element={<Team />} />
-        <Route path='about' element={<About />} />
-        <Route path='contact' element={<Contact />} />
+        <Route path='https://thedevstackers.github.io/thestackers.in/services' element={<Services />} />
+        <Route path='https://thedevstackers.github.io/thestackers.in/team' element={<Team />} />
+        <Route path='https://thedevstackers.github.io/thestackers.in/about' element={<About />} />
+        <Route path='https://thedevstackers.github.io/thestackers.in/contact' element={<Contact />} />
       </Routes>
       <Footer />
     </div>
