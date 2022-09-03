@@ -7,7 +7,7 @@ function App() {
     <div className="layout">
       <Header />
       <Routes>
-        <Route path='/' element={<Home />} />
+        <Route path='https://thedevstackers.github.io/thestackers.in' element={<Home />} />
         <Route path='https://thedevstackers.github.io/thestackers.in/services' element={<Services />} />
         <Route path='https://thedevstackers.github.io/thestackers.in/team' element={<Team />} />
         <Route path='https://thedevstackers.github.io/thestackers.in/about' element={<About />} />
